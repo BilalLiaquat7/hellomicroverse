@@ -27,18 +27,34 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Hello Microverse README</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📗 Table of Contents
 
-> This is just Hello Microverse
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Hello_Microverse <a name="about-project"></a>
+
+> This is my first project at microverse to learn how to make project, add files and main thing how to setup linter in a project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,47 +62,80 @@ After you're finished please remove all the comments and instructions!
 
 <details>
   <summary>HTML</summary>
+</details>
+
+<details>
   <summary>CSS</summary>
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Go to linters https://github.com/microverseinc/linters-config/tree/master install this and then go ahead.
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+setup linter
+open this link: https://github.com/microverseinc/linters-config/tree/master/html-css
+copy this folder to your project at root directory
 
 ### Setup
 
-Clone this repository to your desired folder with git commands.
+Clone this repository to your desired folder:
+
+Example commands:
+
+cd my-folder
+git clone git@github.com:myaccount/my-project.git
+
+### Usage
+
+To run the project, execute the following command:
+
+To run tests, run the following command:
+install liveserver extension
+right click on index.html and click on live server
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muhammad Bilal Liaquat**
+👤 **Shah Zaman**
 
-- GitHub: [@githubhandle](https://github.com/BilalLiaquat7/)
+- GitHub: [@BilalLiaquat7](https://github.com/BilalLiaquat7)
 
-<!-- FUTURE FEATURES -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/BilalLiaquat7/hellomicroverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a star to this repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT] licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+**Github Profile:**
+<p align="left">(<a href="https://github.com/BilalLiaquat7">Check my github profile</a>)</p>
